@@ -1,6 +1,8 @@
 # 📊 Netflix Power BI Dashboard
 
-This project is an interactive Power BI dashboard built using a dataset of 8,000+ Netflix movies and TV shows (sourced from Kaggle). The dataset includes content released between 1925 and 2021. The goal of this analysis was to uncover insights into Netflix's content trends, distribution, and user offerings.
+This project is an interactive Power BI dashboard built using a dataset of 8,000+ Netflix movies and TV shows (sourced from Kaggle).
+The dataset includes content released between 1925 and 2021.
+The goal of this analysis was to uncover insights into Netflix's content trends, distribution, and user offerings.
 
 ## 🔧 Tools & Techniques
 - **Power BI Desktop**
@@ -26,4 +28,9 @@ This project is an interactive Power BI dashboard built using a dataset of 8,000
 
 ---
 
-Feel free to explore the `.pbix` file and discover your own insights!
+## 📧 Connect with Me
+- **LinkedIn**: [Ishita Singh](https://www.linkedin.com/in/ishitasingh3992)
+- **Email**: singhishita@gmail.com
+
+---
+Let’s connect! If you find this analysis insightful, feel free to star ⭐ the repo & share your thoughts! 
