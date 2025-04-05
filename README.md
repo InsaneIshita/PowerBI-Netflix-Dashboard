@@ -29,7 +29,7 @@ The goal of this analysis was to uncover insights into Netflix's content trends,
 ---
 
 ## 📧 Connect with Me
-- **LinkedIn**: [Ishita Singh](https://www.linkedin.com/in/ishitasingh3992)
+- **LinkedIn**: [Ishita Singh](https://www.linkedin.com/in/ishitasingh3299)
 - **Email**: singhishita@gmail.com
 
 ---
